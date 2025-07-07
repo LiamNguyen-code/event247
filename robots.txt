@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://247events.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow specific files
+Disallow: /scripts.js
+Disallow: /lienhe.js
+Disallow: /*.css$
+
+# Allow important pages
+Allow: /index.html
+Allow: /dichvu.html
+Allow: /gioithieu.html
+Allow: /lienhe.html
